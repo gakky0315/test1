@@ -1,6 +1,6 @@
-.vs/		#vsフォルダを無視
-*.suo		#.suo拡張子を無視
-*user		#user固有の設定ファイルを無視
-**/obj/		#プロジェクト内の全てのobjディレクトリを無視
+.vs/
+*.suo
+*user
+**/obj/
 **/bin/
-**/packages/	#プロジェクト内の全てのpackagesディレクトリを無視
+**/packages/

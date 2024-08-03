@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace YieldCurveTraining.Data
 {
-    internal class MarketData
+    public class MarketData
     {
+        public string Kind { get; set; }
+        public string Product { get; set; }
+        public string Currency { get; set; }
+        public string Term { get; set; }
+        public string Side { get; set; }
+        public double Ask { get; set; }
+        public double Bid { get; set; }
     }
 }
