@@ -1,2 +1,0 @@
-﻿Key,Product,Bcs,SpotBcs,Dcc,Bdc,SpotLag,FixingLag,PaymentLag,Frequency,LastOdd,IgnoreEom
-JPY.TONAR,Ois,TKY,TKY,Act365F,ModFollowing,2,0,2,12,TRUE,FALSE
